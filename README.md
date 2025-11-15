@@ -6,7 +6,7 @@ This project is a modern, responsive landing page designed to showcase clean UI 
 Live Demo
 
 Explore the live version of the project here:
-👉 Landing Page Demo
+[👉 Landing Page Demo](https://lublubuterbrodi.github.io/Landing-Page/)
 
 ⚠️ Make sure the link is publicly accessible. Test it in incognito mode to verify full functionality.
 
