@@ -20,9 +20,7 @@ Explore the live version of the project here:
 
 If your project was built from a **Figma design**, add the link here:
 
-> **Figma Prototype:** _add link here_
-
-(If not — you may remove this section.)
+> **Figma Prototype:** https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6817-212&t=ZTV6Gl8NzaWkJ4FK-0
 
 ---
 
