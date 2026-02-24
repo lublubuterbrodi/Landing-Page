@@ -11,14 +11,9 @@ The page is optimized for different devices, contains visually appealing content
 Explore the live version of the project here:
 [👉 Landing Page Demo](https://lublubuterbrodi.github.io/Landing-Page/)
 
-> ⚠️ Make sure the link is publicly accessible.
-> Test it in **incognito mode** to verify full functionality.
-
 ---
 
-## 🎨 Design Reference (If Applicable)
-
-If your project was built from a **Figma design**, add the link here:
+## 🎨 Design Reference
 
 > **Figma Prototype:** https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6817-212&t=ZTV6Gl8NzaWkJ4FK-0
 
